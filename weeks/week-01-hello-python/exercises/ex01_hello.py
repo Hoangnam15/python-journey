@@ -46,10 +46,10 @@ print("*****")
 # H   H   I
 # H   H  III
 # Viết code ở đây:
-print("H   H  III")
-print("H   H   I")
-print("HHHHH   I")
-print("H   H   I")
-print("H   H  III")
+print("N   N      A     M         MM")
+print("NN  N     A A    MM       M M")
+print("N N N    A   A   M  M    M  M")
+print("N  NN   A A A A  M   M  M   M")
+print("N   N  A       A M    MM    M")
 
 # Starter chưa hoàn thành: chỉ có output khi sinh viên tự viết các TODO.

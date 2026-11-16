@@ -2,7 +2,7 @@
 
 name = input("Tên của bạn: ").strip()
 message = f"Xin chào {name}!"
-width = len(message) + 2
+width = len(message) + 4
 
 print("+" + "-" * width + "+")
 print("| " + message + " |")
